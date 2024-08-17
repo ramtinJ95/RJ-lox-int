@@ -1,4 +1,7 @@
 # RJ-lox-int
+This project is on pause, will implement lox in python first then c++ later. Its
+too much to learn new concepts and using a language im trying to learn better at
+the same time.
 ## Project Description
 C++ port of the Interpreter for the lox programming language created by Bob Nystrom in the book Crafting Interpreters. This meansthat this is implementing part 2 of his book.
 
